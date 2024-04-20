@@ -1,0 +1,3 @@
+C:/Users/agnie/Documents/Moje_pliki/Studia/IV_SEM/OIAK/Projekt/OiAK_Projekt/kod/cmake-build-debug/CMakeFiles/kod.dir
+C:/Users/agnie/Documents/Moje_pliki/Studia/IV_SEM/OIAK/Projekt/OiAK_Projekt/kod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/agnie/Documents/Moje_pliki/Studia/IV_SEM/OIAK/Projekt/OiAK_Projekt/kod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
